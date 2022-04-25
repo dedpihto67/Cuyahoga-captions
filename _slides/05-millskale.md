@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+**Tony Hawk as a young octupus.**
 
 ![skatetocat](https://octodex.github.com/images/skatetocat.png)
 {: .center}
